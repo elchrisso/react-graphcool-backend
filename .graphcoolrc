@@ -1,0 +1,3 @@
+targets:
+  graphcool-demo: local/cj9hebdp900040108xhbg6cn5
+  default: graphcool-demo
